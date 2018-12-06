@@ -1,6 +1,8 @@
 # Typex
 
 Data type finder with some useful data like whether data is empty, map with no values, empty list. such hints are returned to get the idea of data. 
+
+The New CHange
 ## Installation
 
 [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
