@@ -8,17 +8,17 @@
 
   1. Add `typex` to your list of dependencies in `mix.exs`:
 
-    ```elixir
+```elixir
     def deps do
       [{:typex, "~> 0.1.0"}]
     end
-    ```
+```
 
   2. Ensure `typex` is started before your application:
 
-    ```elixir
+```elixir
     def application do
       [applications: [:typex]]
     end
-    ```
+```
 
